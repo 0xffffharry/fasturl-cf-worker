@@ -1,0 +1,7 @@
+.pnpm-store/
+.vscode/
+.wrangler/
+build/
+node_modules/
+target/
+pnpm-lock.yaml
